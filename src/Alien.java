@@ -6,6 +6,7 @@ public class Alien extends Sprite{
 	public Alien(int x, int y){
 		super(x,y);
 		
+
 		
 		initAlien();
 	}
